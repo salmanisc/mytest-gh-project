@@ -12,4 +12,6 @@ function dd($var) {
 	echo "<tt></pre>";
 }
 
+dd($list);
+
  ?>
